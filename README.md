@@ -1,8 +1,8 @@
 # 预测泰坦尼克号乘客幸存率
-## 对泰坦尼克号乘客幸存率进行预测
+### 对泰坦尼克号乘客幸存率进行预测
 * 历史数据:titanic_train.csv
 * 需要预测的数据:test.csv
-## 代码使用为python3.6,以及主要安装以下python库
+### 代码使用为python3.6,以及主要安装以下python库
 * numpy
 * pandas
 * scikit-learn
@@ -21,3 +21,5 @@
 * Fare：乘客为船票支付的费用
 * Cabin：乘客所在船舱的编号（可能存在 NaN）
 * Embarked：乘客上船的港口（C 代表从 Cherbourg 登船，Q 代表从 Queenstown 登船，S 代表从 Southampton 登船）
+# 预测结果
+预测正确率分数为0.79
