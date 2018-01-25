@@ -1,7 +1,10 @@
 # 预测泰坦尼克号乘客幸存率
-
+代码使用为python3.6,以及主要安装以下python库
+* numpy
+* pandas
+* scikit-learn
 # 代码
-
+泰坦尼克代码.py
 # 数据
 ​ 这个项目的数据包含在 titanic_data.csv 文件中。文件包含下列特征：
 * Survived：是否存活（0代表否，1代表是)
