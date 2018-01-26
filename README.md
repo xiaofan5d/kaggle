@@ -1,6 +1,6 @@
 # 预测泰坦尼克号乘客幸存率
 ### 对泰坦尼克号乘客幸存率进行预测
-* 历史数据:titanic_train.csv
+* 历史数据:[titanic_train.csv](https://github.com/xiaofan5d/kaggle/blob/master/titanic_train.csv)
 * 需要预测的数据:test.csv
 ### 代码使用为python3.6,以及主要安装以下python库
 * numpy
